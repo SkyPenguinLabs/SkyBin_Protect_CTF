@@ -1,6 +1,7 @@
 ![](SkyBin_Proof.PNG)
 # SkyBin_Protect_CTF
-A simple CTF utilizing the SkyBin exploit protection software to create and power the CTF! Find the two flags :D
+
+A game cheater hid his API key in this framework- only thing is, he has a shit ton of protection behind it (anti-patch, injection, debug, etc) can you help us go old school and find it? He seems to leave nothing behind either...
 
 # Information 
 
